@@ -1,0 +1,12 @@
+# training outputs (publish weights and results as a release or on Zenodo instead)
+results/
+*.weights.h5
+*.keras
+# python / notebooks
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# datasets are not redistributed
+*.pkl
+*.dat
+*.hdf5

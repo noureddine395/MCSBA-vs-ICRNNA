@@ -1,0 +1,7 @@
+# Tested on Google Colab (Python 3.13, Keras 3 with the TensorFlow backend, NVIDIA GPU).
+tensorflow>=2.16
+numpy
+scipy
+scikit-learn
+matplotlib
+h5py          # only needed if a dataset is stored as HDF5
